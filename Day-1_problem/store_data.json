@@ -1,0 +1,23 @@
+{
+    "name": "Sachet shop",
+    "departments": [
+        {
+            "name": "Cosmetics",
+            "products": [
+                "makeup",
+                "blush"
+            ]
+        },
+        {
+            "name": "Technology",
+            "products": [
+                "laptop",
+                "mouse"
+            ]
+        },
+        {
+            "name": "Furniture",
+            "products": []
+        }
+    ]
+}
